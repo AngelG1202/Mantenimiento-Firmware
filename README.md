@@ -43,7 +43,14 @@ Como parte del alcance del servicio técnico y con una visión orientada a la ar
 
 ## Anexo Fotográfico (Evidencias de Ejecución)
 
-1. `[Vista del cliente vSphere validando el estado operativo normal de las máquinas virtuales en el host esxi01.intendencia.local posterior a la actualización de firmware y el restablecimiento de las cargas de trabajo.]`<img width="887" height="494" alt="ESXI 01" src="https://github.com/user-attachments/assets/42a5856a-7ebd-44e2-8d23-7ea58fb24f72" />
+1. Vista del cliente vSphere validando el estado operativo normal de las máquinas virtuales en el host esxi01.intendencia.local posterior a la actualización de firmware y el restablecimiento de las cargas de trabajo.<img width="887" height="494" alt="ESXI 01" src="https://github.com/user-attachments/assets/42a5856a-7ebd-44e2-8d23-7ea58fb24f72" />
 
-2. `[Insertar Imagen 3 y 4 del Anexo: Interfaz de actualización de firmware / validación del sistema]`[cite: 34]
-3. `[Insertar Imagen 5 y 6 del Anexo: Proceso de validación final en los nodos del clúster]`[cite: 34]
+2. Vista del cliente vSphere validando el estado operativo normal de las máquinas virtuales en el host esxi02.intendencia.local posterior a la actualización de firmware y el restablecimiento de las cargas de trabajo.<img width="874" height="473" alt="ESXI 02" src="https://github.com/user-attachments/assets/86384010-e9c0-4639-918e-bf1103c763ff" />
+   
+3. Vista del cliente vSphere validando el estado operativo normal de las máquinas virtuales en el host esxi03.intendencia.local posterior a la actualización de firmware y el restablecimiento de las cargas de trabajo.<img width="853" height="444" alt="ESXI 03" src="https://github.com/user-attachments/assets/564bf8ba-17fc-4998-b438-9a98d5537241" />
+  
+4. Consola de gestión HPE iLO 5 del servidor esxi01.intendencia.local (HPE ProLiant DL380 Gen10), validando el estado de salud del hardware y la actualización exitosa del System ROM y Firmware a la versión 2.78.<img width="995" height="553" alt="ILO - ESXI 01" src="https://github.com/user-attachments/assets/fe781d18-fb54-45fd-a5fd-37a9edfde36c" />
+
+5. Consola de gestión HPE iLO 5 del servidor esxi02.intendencia.local (HPE ProLiant DL380 Gen10), validando el estado de salud del hardware y la actualización exitosa del System ROM y Firmware a la versión 2.78.<img width="980" height="545" alt="ILO - ESXI 02" src="https://github.com/user-attachments/assets/631bbfc8-0d85-46d7-9212-498987aa478c" />
+
+6. Consola de gestión HPE iLO 5 del servidor esxi03.intendencia.local (HPE ProLiant DL380 Gen10), validando el estado de salud del hardware y la actualización exitosa del System ROM y Firmware a la versión 2.78.<img width="868" height="505" alt="ILO - ESXI 03" src="https://github.com/user-attachments/assets/637c74a3-0f8a-430a-9b61-df2c37402a70" />
