@@ -41,8 +41,9 @@ Como parte del alcance del servicio técnico y con una visión orientada a la ar
 
 ---
 
-## 📸 Anexo Fotográfico (Evidencias de Ejecución)
+## Anexo Fotográfico (Evidencias de Ejecución)
 
-1. `[Insertar Imagen 1 y 2 del Anexo: Consolas mostrando el estado de los servidores y el panel general]`[cite: 34]
+1. `[Vista del cliente vSphere validando el estado operativo normal de las máquinas virtuales en el host esxi01.intendencia.local posterior a la actualización de firmware y el restablecimiento de las cargas de trabajo.]`<img width="887" height="494" alt="ESXI 01" src="https://github.com/user-attachments/assets/42a5856a-7ebd-44e2-8d23-7ea58fb24f72" />
+
 2. `[Insertar Imagen 3 y 4 del Anexo: Interfaz de actualización de firmware / validación del sistema]`[cite: 34]
 3. `[Insertar Imagen 5 y 6 del Anexo: Proceso de validación final en los nodos del clúster]`[cite: 34]
