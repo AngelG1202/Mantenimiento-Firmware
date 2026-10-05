@@ -1,7 +1,7 @@
-# Orquestación Zero-Downtime y Mantenimiento de Hardware Crítico (SSNF)
+# Orquestación Zero-Downtime y Mantenimiento de Hardware Crítico
 
 ## Contexto y Objetivo del Proyecto
-Los servidores de producción del entorno SSNF operaban con versiones de microcódigo severamente desactualizadas en sus interfaces de gestión (iLO) y placas base (BIOS). Esta obsolescencia tecnológica representaba un alto riesgo operativo y de ciberseguridad a nivel bare-metal. 
+Los servidores de producción del entorno, operaban con versiones de microcódigo severamente desactualizadas en sus interfaces de gestión (iLO) y placas base (BIOS). Esta obsolescencia tecnológica representaba un alto riesgo operativo y de ciberseguridad a nivel bare-metal. 
 
 **Objetivo:** Ejecutar un mantenimiento preventivo y actualización profunda de firmware en un clúster de alta disponibilidad, garantizando **cero tiempo de inactividad (Zero-Downtime)** para los servicios corporativos virtualizados del cliente.
 
